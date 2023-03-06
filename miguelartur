@@ -1,5 +1,12 @@
-1: Ler X
-2: Ler Y
-3: Resultado= X + Y
-4: Escreva resultado
-
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa:
+1: LEIA TEMPERATURA
+2: LEIA UNIDADE
+3: Dê T para Temperatura
+4: Dê F para Fahrenheit
+5: Dê C para Celsius
+6: F = C x 1,8 + 32 (Fórmula de conversão de C para F ou de F para C)
+7: Resultado: T = 1,8 + 32
+8: Escreva resultsdo
+senão:
+9: resultado = (tempreratura - 32)/1.8
+10: Escreva resultado
